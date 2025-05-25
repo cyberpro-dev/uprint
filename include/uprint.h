@@ -1,3 +1,4 @@
+// Use of this software is governed by the terms in the EULA file.
 #ifndef UPRINT_H
 #define UPRINT_H
 

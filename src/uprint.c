@@ -1,3 +1,4 @@
+// Use of this software is governed by the terms in the EULA file.
 #include "uprint.h"
 typedef unsigned long size_t;
 

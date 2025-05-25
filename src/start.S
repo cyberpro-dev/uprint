@@ -1,4 +1,5 @@
 // start.S
+// Use of this software is governed by the terms in the EULA file.
 .global _start
 _start:
     bl main
